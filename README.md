@@ -1,14 +1,16 @@
-# Rappi4A
+# Labefood
 
-## Descrição: 
-### Nosso projeto foi criado com a intenção de ter funcionalidades parecidas com Apps de delivery de comida, nosso modelo se assemelha com o Rappi, seguindo seu Layout e Cores. Temos como objetivo fazer o usuário logar ou até mesmo se cadastrar, após o login, poderá interagir com os restaurantes, adicionar produtos ao carrinho e visualizar seu pedido em andamento. Teremos uma aba de perfil aonde poderá visualizar seus dados e atualiza-lo conforme for preciso e visualizar o histórico de pedidos feito pelo usuário.  
+## Description: 
+### Our project was created with the intention of having functionality similar to food delivery Apps, our model is similar to Rappi, following its Layout and Colors. We aim to make the user register, log in and thus be able to interact with the restaurants, add products to the cart and view their order in progress. We will have a profile tab where you can view your data and update it as needed and view the history of orders made by the user.
 
-## Link do surge - Link para visualização do site
+Important note: This is merely an educational project on how to write frontend code and it is not a functional product by any means
+
+## Surge link - Site demo:
 <a href="https://rappi4-5.surge.sh">Rappi4</a>
 
-<h2 id="tecnologias"> 🛠 Tecnologias </h2>
+<h2 id="tecnologias"> 🛠 Technologies </h2>
 
-As seguintes ferramentas foram usadas na construção do projeto:
+The following technologies were used in this project:
 
 * React hooks
 * React Router
@@ -19,47 +21,34 @@ As seguintes ferramentas foram usadas na construção do projeto:
 * Metodologias Ágeis
 * Scrum
 
-## 💻 Pré-requisitos
-(Caso queira rodar em seu repositório local e fazer testes ou implementações)
-Antes de começar, verifique se você atendeu aos seguintes requisitos:
-* Projeto usando Javascript e React.
-* Você instalou: Material ui v4, react-router-dom, axios e styled-components.
-Além disto ter um editor de código como [VSCode](https://code.visualstudio.com/)
+## 💻 Requirements
+(In case you want to run in your local repository and do tests or implementations)
+Before starting, make sure you've met the following requirements:
 
-<h4>:checkered_flag: Rodando o projeto </h4>
+* Design using Javascript and React.
+
+* You have installed: Material ui v4, react-router-dom, axios and styled-components.
+In addition to having a code editor like [VSCode](https://code.visualstudio.com/)
+
+<h4>:checkered_flag: Running the project:</h4>
 
 ```bash
-# Clone este repositório
+# Clone this repository
 $ git clone <https://github.com/FillipeCO/Labefood.git>
 
-# Instale as dependências
+# Install the dependencies
 $ npm install
 
-# Para iniciar o projeto
+# To start the project
 $ npm run start
 
-# O servidor inciará na porta:3000 - acesse <http://localhost:3000>
+# The server will run on this port:3000 - acesse <http://localhost:3000>
 ```
-
-<h2 id="funciona">:heavy_check_mark: O que funciona</h2>
-
-* Login e Cadastros com validação de campos;
-* Lista e Seleção de restaurantes com filtro por categorias únicas e busca por por nome;
-* Visualizar e Selecionar itens do cardápio de um restaurante;
-* Carrinho para confirmação do pedido, podendo remover itens;
-* Seção de informações do usuário com histórico de pedidos e edição de cadastro;
-
-<h2 id="nao-funciona">:x: O que não funciona</h2>
-
-* N/A -->
- 
-<h2 id="pendente">:construction: Em desenvolvimento</h2>
-
-- [x] Versão Desktop
-
-
+<p align="center">
 
 <img src="https://i.postimg.cc/6pzPmdNP/Rappi4-Abertura.png" alt="imagem principal">
+ 
+ </p>
 
 # Imagens:
 ![image](https://user-images.githubusercontent.com/94733546/159110599-b3cbd39f-9df5-48a5-b479-07ece8572d99.png)
@@ -72,9 +61,9 @@ $ npm run start
 ![image](https://user-images.githubusercontent.com/94733546/159110809-41e5057b-59be-45e6-b35f-efc057f7e9cf.png)
 
 
-## 🤝 Colaboradores
+## 🤝 Colaborators
 
-Agradecemos às seguintes pessoas que contribuíram para este projeto:
+We thank the following people who contributed to this project:
 
 <table>
   <tr>
